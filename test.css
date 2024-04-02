@@ -1,0 +1,26 @@
+.Services {
+background-color:white;
+text-align: center;
+}
+
+p{
+   color:darkgray;
+}
+
+
+.service
+{
+display: inline-block;
+width: 20%;
+background-color:white;
+}
+
+h4{
+background-color: teal;
+height: auto;
+}
+
+i{
+
+    color: red;
+}

@@ -1,26 +1,53 @@
-.Services {
-background-color:white;
-text-align: center;
+.Products {
+
+border: 2px blue solid;
+margin: 20px;
+
 }
 
-p{
-   color:darkgray;
+h2{
+    text-align: left;
+    margin: 10px;
 }
 
-
-.service
-{
-display: inline-block;
+.Product{
 width: 20%;
-background-color:white;
+float: left;
+border: 2px darkgray solid;
+margin: 20px;
 }
 
-h4{
-background-color: teal;
-height: auto;
+img{
+    
+    width: 100px;
 }
 
-i{
+.clearfix{
+    clear: left;
+}
 
-    color: red;
+.paragraph{
+    color: darkgray;
+    margin: 10px;
+    text-align: left;
+}
+
+h3{
+    margin: 10px;
+    text-align: left;
+}
+.price{
+font-size: 18px;
+font-weight: 700;
+    margin: 10px;
+    text-align: left;
+}
+
+.button{
+    width: 50;
+    text-align: left;
+    color: white;
+    background-color: rgb(0, 110, 255);
+    
+    
 }

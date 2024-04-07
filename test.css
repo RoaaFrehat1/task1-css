@@ -2,6 +2,7 @@
 
 border: 2px blue solid;
 margin: 20px;
+text-align: center;
 
 }
 
@@ -11,6 +12,7 @@ h2{
 }
 
 .Product{
+
 width: 20%;
 float: left;
 border: 2px darkgray solid;
